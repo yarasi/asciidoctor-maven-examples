@@ -80,7 +80,7 @@
                         <inherited>false</inherited>
                         <executions>
                             <execution>
-                                <phase>validate</phase>
+                                <phase>validat</phase>
                                 <goals>
                                     <goal>execute</goal>
                                 </goals>
