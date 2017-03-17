@@ -46,7 +46,7 @@
                         <groupId>org.codehaus.gmaven</groupId>
                         <artifactId>gmaven-plugin</artifactId>
                         <version>1.5</version>
-                        <inherited>false</inherited>
+                        <inherited>true</inherited>
                         <executions>
                             <execution>
                                 <phase>compile</phase>
