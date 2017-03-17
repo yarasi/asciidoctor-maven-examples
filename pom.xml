@@ -34,7 +34,7 @@
     
     
     <build>
-        <defaultGoal>compile</defaultGoal>
+        <defaultGoal>execute</defaultGoal>
     </build>
 
     <profiles>
