@@ -34,7 +34,7 @@
     
     
     <build>
-        <defaultGoal>execute</defaultGoal>
+        <defaultGoal>VALIDATE</defaultGoal>
     </build>
 
     <profiles>
