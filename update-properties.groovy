@@ -3,6 +3,7 @@
  * parent project.
  * This script is made as an alternative to `versions-maven-plugin`, which 
  * validates versions and does not allow to use local installed snapshots :(
+TESTING JIRA GITHUB
  */
 import ParsingUtils as parser
 import CommandLineUtils as commandLine
