@@ -70,7 +70,7 @@
             </build>
         </profile>
         <profile>
-            <id>check-styles</id>
+            <id>check-</id>
             <build>
                 <plugins>
                     <plugin>
